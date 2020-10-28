@@ -1,0 +1,50 @@
+body {
+  font-family: 'Roboto', serif;
+  color: white
+}
+
+h1 {
+  color: white;
+  size: 4rem;
+  line-height: 1.5;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+h3 {
+  color: white;
+  line-height: 1.5;
+}
+
+#title {
+  background-image: linear-gradient(to bottom, #7400b8, #5390d9);
+}
+
+#Description {
+  background-image: linear-gradient(to bottom, #5390d9, #56cfe1);
+}
+
+.container-fluid {
+  padding: 3% 10%;
+
+}
+
+.brand {
+  font-size: 2em;
+  color: white;
+  font-family: 'Merriweather', serif;
+}
+
+.nav-link {
+  font-size: 1.2em;
+}
+
+.pic_me {
+  height: auto;
+  width: 50%;
+}
+
+.Middle-Pics {
+  height: auto;
+  width: 50%;
+}
