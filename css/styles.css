@@ -5,13 +5,6 @@ body {
 
 h1 {
   color: white;
-  size: 4rembody {
-  font-family: 'Roboto', serif;
-  color: white
-}
-
-h1 {
-  color: white;
   size: 4rem;
   line-height: 1.5;
   font-family: 'Roboto', sans-serif;
@@ -80,69 +73,3 @@ a:hover {
   width: 100%;
 }
 
-  line-height: 1.5;
-  font-family: 'Roboto', sans-serif;
-}
-
-
-h3 {
-  color: white;
-  line-height: 1.5;
-}
-
-a {
-    text-decoration: inherit;
-    color: inherit;
-}
-
-a:hover {
-    text-decoration: inherit;
-    color: inherit;
-}
-
-#title {
-  background-image: linear-gradient(to bottom, #4361ee, #3a0ca3);
-}
-
-#Description {
-  background-image: linear-gradient(to bottom, #3a0ca3, #7209b7);
-}
-
-#Projects {
-  background-image: linear-gradient(to bottom, #7209b7, #7209b7);
-}
-
-#Youtube-Tree {
-  width: 100%;
-  height: auto;
-}
-
-.container-fluid {
-  padding: 3% 10%;
-
-}
-
-.brand {
-  font-size: 2em;
-  color: white;
-  font-family: 'Merriweather', serif;
-}
-
-.nav-link {
-  font-size: 1.2em;
-}
-
-.pic_me {
-  height: auto;
-  width: 50%;
-}
-
-.Middle-Pics {
-  height: auto;
-  width: 50%;
-}
-
-.Project-Pic {
-  height: auto;
-  width: 100%;
-}
